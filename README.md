@@ -37,14 +37,16 @@ My task was to assist Shield Insurance in making data-driven decisions by analyz
 
 ### **Home Page -** When a user logs in for the first time, they will land on this page. From here, they can navigate to different pages.
 
-![home]![home](https://github.com/user-attachments/assets/711e0ea8-5b9e-4ca2-bb95-ae58ea40c797)
+
+![home](https://github.com/user-attachments/assets/79c767dc-350e-4df3-a91a-45b4c7ca0f8d)
 
 
 
 ### **General View Analysis -** Provide an overview of essential insurance metrics, including monthly revenue and customer trends. Also age group and city segmentation.
 
-![General view Analysis]![General View](https://github.com/user-attachments/assets/f0a88a02-65a1-4c78-8e72-b60bd4f1ccc5)
 
+
+![General View](https://github.com/user-attachments/assets/6f71308b-7556-4efb-9cab-91a876531070)
 
 
 
@@ -52,7 +54,8 @@ My task was to assist Shield Insurance in making data-driven decisions by analyz
 
 
 ![sales view analysis]
-!![Sales Mode](https://github.com/user-attachments/assets/4839787b-7514-4101-b90a-7379c32802c5)
+![Sales Mode](https://github.com/user-attachments/assets/854142d3-dd25-4cc9-b69a-96f4205e6796)
+
 
 
 
@@ -60,7 +63,8 @@ My task was to assist Shield Insurance in making data-driven decisions by analyz
 ### **Age Group-** Demonstrate company revenue and customer performance by age group, including metrics for estimated settlement amounts, and policy preferences.
 
 
-![Age Group view analysis]!![Age Group](https://github.com/user-attachments/assets/a67a91a3-94cd-4f7a-923f-9202a5f97d92)
+![Age Group](https://github.com/user-attachments/assets/2931b2ca-387d-4921-9bd8-d6e0d94c704b)
+
 
 
 
